@@ -1,8 +1,6 @@
 
 # IP Recon
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G61BDMMC)
-
 Current Version: 1.01
 
 A Bulk IP Reputation Checker
